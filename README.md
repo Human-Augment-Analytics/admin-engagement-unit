@@ -9,7 +9,7 @@
 
 ## Key Question
 
-"How does hang consistently engage with stakeholders to provide a benefit to the research community or to OMSCS students?"
+"How does HAAG consistently engage with stakeholders to provide a benefit to the research community or to OMSCS students?"
 
 ## Documents
 - [Wildlabs (Ilia)](./docs/wildlab.md)
