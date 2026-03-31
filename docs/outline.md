@@ -12,7 +12,7 @@
 3. Consistency Measurement & Transfer Triggers
 4. Handoff Protocols
 5. Point Person Training: Needs Identification & Opportunity Expansion
-6. Final Comments
+6. My Final Comments
 
 
 ---
@@ -63,7 +63,7 @@ All members must be trained across five knowledge domains before engaging with s
 | Phase 2: Orientation Session | Live session with leadership |   Member hears real examples, asks questions |
 | Phase 3: Shadowing | Member shadows an active point person on a live stakeholder interaction or reviews a recording of interaction| Observes real communication in context |
 
-### 1.4 Ongoing Literacy
+### 1.4 Ongoing Literacy (awarness of duties/HAAG)
 
 - Members who have sat through or reviewed stakeholder interactions can be reviewed by leadership member to receive a **"Stakeholder-Ready" designation** tracked in the internal member registry.
 - Members who have been inactive for 6+ months must complete a re-orientation and are removed from stakeholder-ready designation.
@@ -110,13 +110,13 @@ Document the following for the Stakeholder Point Person:
 
 ## 3. Consistency Measurement & Transfer Triggers
 
-### 3.1 Why Consistency Matters
+### 3.1 Why This Matters
 
 Inconsistency in a point person regardless of whether in communication frequency, accuracy of information shared, or quality of follow-through erodes stakeholder trust within HAAG and can ruin collaboration opportunities. This section defines how to detect inconsistency and how to determine when a transfer is needed.
 
 ### 3.2 Consistency Metrics
 
-Track the following on a per-point-person basis:
+Track the following on a per-point-person basis (based on assumptions):
 
 **Communication Consistency**
 - Are updates delivered on the agreed schedule?
@@ -197,7 +197,7 @@ Two weeks after a handoff is completed, leadership should:
 
 ## 5. Point Person Training 
 
-### 5.1 Why This Training Matters
+### 5.1 Why This Matters
 
 A  point person who only executes exactly what is asked will miss opportunities to deepen HAAG's impact and the organization's relationship with that stakeholder. This section trains point persons in both directions: listening well and thinking expansively.
 
@@ -228,20 +228,25 @@ Expansion opportunities should always be framed as questions, not proposals:
 - *"Is this a one-time need, or do you foresee similar projects in the future?"*
 
 ---
-## 5. Final Comments
+## 6. My Final Comments
 1. How can you collect information in HAAG to form a procedure for this operation?
+
 Would need HAAG's history, research projects (succesful and unsuccesful), what recording keeping methodologies have worked/have not worked, and weak areas of this proposal from someone with more HAAG Experience
 
-2. What resources would you need to consult to collect this information?
+3. What resources would you need to consult to collect this information?
+
 Items stated above + document design approval
 
-3. How will you validate the your procedure is correct?
+5. How will you validate the your procedure is correct?
+   
 Make sure the methodology does not interfere with current design, check if stakeholders are happy with new formatting, see if there are more opportunities being generated
 
-4. What need is your procedure serving?
+7. What need is your procedure serving?
+   
 Improving communication and creating a structured format for continuity of collaboration relationships for HAAG
 
-5. Who is the intended audience of your procedure?
+9. Who is the intended audience of your procedure?
+    
 HAAG members and organization as well as current and future collaborators.
 
 
